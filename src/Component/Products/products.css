@@ -1,0 +1,6 @@
+
+.prev_next_buttons{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}

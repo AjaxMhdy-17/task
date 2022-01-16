@@ -1,0 +1,25 @@
+*{
+  margin: 0 ;
+  padding : 0 ;
+  outline : 0 ;
+}
+
+a{
+  text-decoration: none ;
+}
+
+ul , li {
+  list-style: none ;
+}
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
